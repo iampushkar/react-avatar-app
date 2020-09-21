@@ -1,0 +1,16 @@
+.avatar__style img {
+  width: 200px;
+  height: 200px;
+}
+
+.avatar__mainpage {
+  width: 90%;
+  height: 100vh;
+  margin: auto;
+}
+
+.avatar__mainpage h1 {
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+}
